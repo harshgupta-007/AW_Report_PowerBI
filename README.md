@@ -1,5 +1,5 @@
 # AW_Report_PowerBI
-
+![power](https://github.com/harshgupta-007/AW_Report_PowerBI/assets/81327866/e4818a2f-7203-404f-bcec-7ecf746c7aac)
 This GitHub repository contains datasets related to Adventure Works Motorcycles, a company operating in multiple countries. The datasets cover various aspects of the company's operations, including product data, calendar information, and transaction records.
 
 The repository hosts a comprehensive Power BI report that provides insights and analysis at different levels of detail. The report includes key performance indicators (KPIs), interactive maps, gauges, bar charts, and a variety of other responsive chart types.
@@ -18,6 +18,6 @@ This repository serves as a valuable resource for analysts, data professionals, 
 To utilize the report, clone the repository and open it in Power BI Desktop. Explore the different visuals, filter the data based on your specific requirements, and leverage the rich set of features to gain a comprehensive understanding of Adventure Works Motorcycles' operations.
 
 Note: The dataset included in this repository is specific to Adventure Works Motorcycles and may not reflect real-time or updated data.
-![power](https://github.com/harshgupta-007/AW_Report_PowerBI/assets/81327866/e4818a2f-7203-404f-bcec-7ecf746c7aac)
+
 
 
