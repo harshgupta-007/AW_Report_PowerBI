@@ -1,10 +1,13 @@
 # AW_Report_PowerBI
-![power](https://github.com/harshgupta-007/AW_Report_PowerBI/assets/81327866/e4818a2f-7203-404f-bcec-7ecf746c7aac)
+<p align="center">
+  <img src="power.jpg" width="500" title="hover text">
+  <img src="power2.jpg" width="500" alt="accessibility text">
+</p>
 
 
 <p align="center">
-  <img src="power2.jpg" width="350" title="hover text">
-  <img src="power3.jpg" width="350" alt="accessibility text">
+  <img src="power3.jpg" width="500" title="hover text">
+  <img src="power4.jpg" width="500" alt="accessibility text">
 </p>
 This GitHub repository contains datasets related to Adventure Works Motorcycles, a company operating in multiple countries. The datasets cover various aspects of the company's operations, including product data, calendar information, and transaction records.
 
