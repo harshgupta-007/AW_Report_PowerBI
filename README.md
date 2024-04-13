@@ -21,12 +21,3 @@ Features of the Power BI Report:
 3. Geographic Analysis: The Power BI report includes interactive maps that showcase the countries in which Adventure Works Motorcycles operates. Users can analyze sales and customer distribution geographically, enabling them to identify opportunities and potential challenges in different regions.
 
 4. Responsive Visualizations: The report employs a variety of responsive and dynamic chart types to present data effectively. Users can interact with the charts, apply filters, and zoom in on specific time periods or product categories, enhancing their ability to derive meaningful insights.
-
-This repository serves as a valuable resource for analysts, data professionals, and enthusiasts interested in exploring Adventure Works Motorcycles' data. The Power BI report offers a comprehensive analysis of the company's performance, enabling users to gain actionable insights and make informed decisions.
-
-To utilize the report, clone the repository and open it in Power BI Desktop. Explore the different visuals, filter the data based on your specific requirements, and leverage the rich set of features to gain a comprehensive understanding of Adventure Works Motorcycles' operations.
-
-Note: The dataset included in this repository is specific to Adventure Works Motorcycles and may not reflect real-time or updated data.
-
-
-
